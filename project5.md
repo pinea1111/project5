@@ -52,7 +52,6 @@ The Consul service requires specific ports to function correctly. Please open th
 ![7](img/Screenshot%20(161).png)
 
 > [!NOTE]
-
 This port supports both TCP and UDP protocols, so you'll need to configure both.
 
 - Choose the appropriate CIDR block.
